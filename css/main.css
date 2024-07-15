@@ -735,7 +735,7 @@ textarea:hover {
 }
 .glitch {
   color: var(--text-color);
-  font-size: 100px;
+  font-size: 70px;
   position: relative;
   margin: 0 auto;
   font-style: italic;
